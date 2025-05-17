@@ -1,0 +1,16 @@
+<?php
+header('Content-Type: application/json; charset=utf-8');
+header("Access-Control-Allow-Origin: *");
+
+$con = mysqli_connect('localhost', 'root', '', 'project') or die("Database Connection Fail...");
+
+$sql = "SELECT * FROM `order`"; // Ensure the table name is correct
+$qry = mysqli_query($con, $sql);
+
+$response = array();
+while ($row = mysqli_fetch_assoc($qry)) {
+    $response[] = $row;
+}
+
+echo json_encode($response);
+?>

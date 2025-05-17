@@ -1,0 +1,376 @@
+Array
+(
+)
+Received Data: Array
+(
+    [products] => [{"id":"47","name":"ACR Systems-15mm Rods ","price":300,"quantity":1}]
+    [mobileNumber] => 8888888888
+    [email] => admin@gmail.com
+    [address] => llll
+    [cashOnDelivery] => 1
+    [totalAmount] => 300
+)
+
+Received Data: 
+Received Data: 
+Received Data: 
+Received Data: 
+Received Data: Array
+(
+    [mobileNumber] => 6351793925
+    [email] => vincy@gmail.com
+    [address] => sdwd
+    [cashOnDelivery] => 1
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 47
+                    [name] => ACR Systems-15mm Rods 
+                    [price] => 300
+                    [img] => assets/images/p1.jpg
+                    [quantity] => 1
+                    [itemTotal] => 300
+                )
+
+        )
+
+    [totalAmount] => 300
+)
+
+Received Data: Array
+(
+    [mobileNumber] => 6351793925
+    [email] => vincy@gmail.com
+    [address] => janki tfy
+    [cashOnDelivery] => 1
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 49
+                    [name] => GoProfessional Ronin-M Gimbal  
+                    [price] => 125
+                    [img] => assets/images/p3.jpg
+                    [quantity] => 1
+                    [itemTotal] => 125
+                )
+
+        )
+
+    [totalAmount] => 125
+)
+
+Received Data: Array
+(
+    [mobileNumber] => 6351793925
+    [email] => vincy@gmail.com
+    [address] => 27,srushti row 2
+    [cashOnDelivery] => 1
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 49
+                    [name] => GoProfessional Ronin-M Gimbal  
+                    [price] => 125
+                    [img] => assets/images/p3.jpg
+                    [quantity] => 1
+                    [itemTotal] => 125
+                )
+
+            [1] => Array
+                (
+                    [id] => 47
+                    [name] => ACR Systems-15mm Rods 
+                    [price] => 300
+                    [img] => assets/images/p1.jpg
+                    [quantity] => 1
+                    [itemTotal] => 300
+                )
+
+            [2] => Array
+                (
+                    [id] => 48
+                    [name] => Woo Estes Proto X SLT Nano
+                    [price] => 100
+                    [img] => assets/images/p2.jpg
+                    [quantity] => 1
+                    [itemTotal] => 100
+                )
+
+        )
+
+    [totalAmount] => 525
+)
+
+Received Data: Array
+(
+    [mobileNumber] => 6351793925
+    [email] => admin@gmail.com
+    [address] => 27,srushti row house
+    [cashOnDelivery] => 1
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => ACR Systems-15mm Rods 
+                    [price] => 300
+                    [img] => assets/images/p1.jpg
+                    [quantity] => 1
+                    [itemTotal] => 300
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Woo Estes Proto X SLT Nano
+                    [price] => 100
+                    [img] => assets/images/p2.jpg
+                    [quantity] => 1
+                    [itemTotal] => 100
+                )
+
+        )
+
+    [totalAmount] => 400
+)
+
+Received Data: Array
+(
+    [mobileNumber] => 1234567890
+    [email] => admin@gmail.com
+    [address] => ww
+    [cashOnDelivery] => 1
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => ACR Systems-15mm Rods 
+                    [price] => 300
+                    [img] => assets/images/p1.jpg
+                    [quantity] => 1
+                    [itemTotal] => 300
+                )
+
+        )
+
+    [totalAmount] => 300
+)
+
+Received Data: Array
+(
+    [mobileNumber] => 7896541230
+    [email] => janki@gmail.com
+    [address] => 27
+    [cashOnDelivery] => 1
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => ACR Systems-15mm Rods 
+                    [price] => 300
+                    [img] => assets/images/p1.jpg
+                    [quantity] => 1
+                    [itemTotal] => 300
+                )
+
+        )
+
+    [totalAmount] => 300
+)
+
+Received Data: Array
+(
+    [mobileNumber] => 6351793925
+    [email] => janki@gmail.com
+    [address] => sfvdfb
+    [cashOnDelivery] => 1
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [name] => GoProfessional Ronin-M Gimbal  
+                    [price] => 125
+                    [img] => assets/images/p3.jpg
+                    [quantity] => 1
+                    [itemTotal] => 125
+                )
+
+        )
+
+    [totalAmount] => 125
+)
+
+Received Data: Array
+(
+    [mobileNumber] => 6351793925
+    [email] => admin@gmail.com
+    [address] => 27,srushti row huse
+    [cashOnDelivery] => 1
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => ACR Systems-15mm Rods 
+                    [price] => 300
+                    [img] => assets/images/p1.jpg
+                    [quantity] => 2
+                    [itemTotal] => 600
+                )
+
+            [1] => Array
+                (
+                    [id] => 3
+                    [name] => GoProfessional Ronin-M Gimbal  
+                    [price] => 125
+                    [img] => assets/images/p3.jpg
+                    [quantity] => 1
+                    [itemTotal] => 125
+                )
+
+        )
+
+    [totalAmount] => 725
+)
+
+Received Data: Array
+(
+    [mobileNumber] => 6351793925
+    [email] => admin@gmail.com
+    [address] => 27,srushti row- 2
+    [cashOnDelivery] => 1
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => ACR Systems-15mm Rods 
+                    [price] => 300
+                    [img] => assets/images/p1.jpg
+                    [quantity] => 1
+                    [itemTotal] => 300
+                )
+
+        )
+
+    [totalAmount] => 300
+)
+
+Received Data: Array
+(
+    [mobileNumber] => 6351793925
+    [email] => janki@gmail.com
+    [address] =>  srushti 27
+    [cashOnDelivery] => 1
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => ACR Systems-15mm Rods 
+                    [price] => 300
+                    [img] => assets/images/p1.jpg
+                    [quantity] => 1
+                    [itemTotal] => 300
+                )
+
+        )
+
+    [totalAmount] => 300
+)
+
+Received Data: Array
+(
+    [mobileNumber] => 7984427398
+    [email] => admin@gmail.com
+    [address] => vadodara
+    [cashOnDelivery] => 1
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [name] => Woo Estes Proto X SLT Nano
+                    [price] => 100
+                    [img] => assets/images/p2.jpg
+                    [quantity] => 1
+                    [itemTotal] => 100
+                )
+
+        )
+
+    [totalAmount] => 100
+)
+
+Received Data: Array
+(
+    [mobileNumber] => 7412589630
+    [email] => prince@gmail.com
+    [address] => surat
+    [cashOnDelivery] => 1
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 47
+                    [name] => ACR Systems-15mm Rods 
+                    [price] => 300
+                    [img] => assets/images/p1.jpg
+                    [quantity] => 1
+                    [itemTotal] => 300
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [name] => ACR Systems-15mm Rods 
+                    [price] => 300
+                    [img] => assets/images/p1.jpg
+                    [quantity] => 2
+                    [itemTotal] => 600
+                )
+
+            [2] => Array
+                (
+                    [id] => 4
+                    [name] =>  Inspire 1 - Zenmuse X3 Gimbal 
+                    [price] => 245
+                    [img] => assets/images/p4.jpg
+                    [quantity] => 2
+                    [itemTotal] => 490
+                )
+
+        )
+
+    [totalAmount] => 1390
+)
+
+Received Data: Array
+(
+    [mobileNumber] => 7894561230
+    [email] => dishant@gmail.com
+    [address] => xyz
+    [cashOnDelivery] => 1
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => ACR Systems-15mm Rods 
+                    [price] => 300
+                    [img] => assets/images/p1.jpg
+                    [quantity] => 1
+                    [itemTotal] => 300
+                )
+
+        )
+
+    [totalAmount] => 300
+)
+

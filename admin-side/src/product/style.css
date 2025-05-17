@@ -1,0 +1,75 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    padding: 20px;
+}
+
+/* Header */
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Table Styles */
+.table-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.tablebr {
+    width: 90%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.tablebr th, .tablebr td {
+    padding: 13px 76px;
+    text-align: left;
+    border: 3px solid #333;
+}
+
+.tablebr th {
+    background-color: #f7f7f7;
+    color: #555;
+}
+
+.tablebr td {
+    background-color: #fff;
+}
+
+/* Button Styles */
+button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #6200ea;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #3700b3;
+}
+
+.add {
+    text-align: center;
+}
+
+.add button {
+    margin-top: 10px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .tablebr {
+        width: 100%;
+    }
+
+    .tablebr th, .tablebr td {
+        padding: 10px;
+    }
+}
